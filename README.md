@@ -1,6 +1,6 @@
 Hi there, I'm Eashwar Subramanian! 👋
 
-🔭 Currently working on: An Australian Retail Customer Segmentation project using Python (K-means clustering) and Power BI to optimize marketing strategies for local retailers. Check my repos for updates!
+🔭 Currently working on: Completed Australian Retail Customer Segmentation project using Python and K-means clustering. Working on Power BI visualization. [View Project](https://github.com/Eashwar-Subramanian/Australian-Retail-Customer-Segmentation).
 
 🌱 Currently learning: Certification on Mircosft Azure Data Fundamentals.
  
