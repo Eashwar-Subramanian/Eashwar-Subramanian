@@ -4,7 +4,7 @@ Hi, I’m Eashwar — a Master of Data Science candidate at RMIT University with
 
 ---
 
-## 🛠️ Key Projects
+## 🛠️ Key Projects 
 
 ### 1. **Australian Retail Customer Segmentation (2025)**
 - Segmented 788 customers using RFM analysis and K-Means clustering in Python.
