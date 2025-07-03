@@ -49,7 +49,7 @@ Hi, I’m Eashwar — a Master of Data Science candidate at RMIT University with
 ## 📚 Currently Learning
 
 - Microsoft Certified: Azure Data Fundamentals (DP-900)
-- Working with **geospatial data and urban infrastructure datasets**
+- Microsoft Certified: Microsoft Azure AI Fundamentals (AI-900)
 
 ---
 
