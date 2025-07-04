@@ -19,10 +19,6 @@ Hi, I’m Eashwar — a Master of Data Science candidate at RMIT University with
 - Forecasted climate trends using SARIMA modeling in Python.
 - Built a dashboard to aid urban planning and sustainability decisions in Australia.
 
-### 3. **Sales Uplift Tracker**
-- Developed a Power BI sales dashboard simulating a **7% revenue uplift** scenario.
-- Cleaned large sales data using SQL and optimized DAX measures for performance.
-
 ---
 
 ## ⚙️ Upcoming Project
