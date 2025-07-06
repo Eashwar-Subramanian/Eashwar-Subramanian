@@ -13,7 +13,6 @@ Hi, I’m Eashwar — a Master of Data Science candidate at RMIT University with
   - Revenue contribution by cluster and state
   - Dynamic filters and KPI cards for real-time insight
 - Identified a high-value cluster contributing **55%+ revenue** from only 52% of customers.
-- *Goal:* Help retailers tailor marketing to loyalty-driven customer segments.
 
 ### 2. **Climate Forecasting Dashboard**
 - Forecasted climate trends using SARIMA modeling in Python.
