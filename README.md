@@ -30,6 +30,15 @@ Hi, I’m Eashwar — a Master of Data Science candidate at RMIT University with
 - Visualize outcomes through a **Power BI dashboard** and **Folium geospatial maps**.
 - *Goal:* Support Melbourne’s commuters and urban planners with proactive, data-backed routing insights.
 
+
+### 📄 **GovReportAI: NLP Intelligence on Australian Public Reports**
+> *Unstructured Data | Topic Modeling | Policy Insight Mining | Language Intelligence*
+
+- Will collect official Australian government reports from domains like climate, health, and education using PDF scraping and data.gov.au sources.
+- Apply Natural Language Processing (NLP) techniques including TF-IDF, Topic Modeling (LDA), and NER (Named Entity Recognition) to extract key themes, risks, and priorities.
+- Summarize and visualize findings via a Power BI + Streamlit dashboard highlighting topic trends by sector, agency, and state.
+- *Goal:* Enable researchers, policymakers, and analysts to uncover actionable insights buried in long-form policy documents and public reports.
+
 ---
 
 ## 🧠 Tools & Skills
