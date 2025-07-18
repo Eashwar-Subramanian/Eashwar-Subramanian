@@ -9,9 +9,9 @@ Hi, I’m Eashwar — a Master of Data Science candidate at RMIT University with
 ### 🚦 **MobilitySense: Predictive Transport Intelligence for Melbourne**
 > *Urban Mobility | Forecasting | Geospatial Intelligence | Cloud-first Pipeline*
 
-- Will extract and process **real-time transport and traffic data** from PTV and City of Melbourne Open Data.
-- Build delay prediction models using **SARIMA/Prophet** and **K-Means** for congestion clustering.
-- Visualize outcomes through a **Power BI dashboard** and **Folium geospatial maps**.
+- Will extract and process real-time transport and traffic data from PTV and City of Melbourne Open Data.
+- Build delay prediction models using SARIMA/Prophet and K-Means for congestion clustering.
+- Visualize outcomes through a Power BI dashboard and Folium geospatial maps.
 - *Goal:* Support Melbourne’s commuters and urban planners with proactive, data-backed routing insights.
 
 
