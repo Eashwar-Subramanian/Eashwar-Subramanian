@@ -4,22 +4,6 @@ Hi, I’m Eashwar — a Master of Data Science candidate at RMIT University with
 
 ---
 
-## 🛠️ Key Projects 
-
-### 1. **Australian Retail Customer Segmentation (2025)**
-- Segmented 788 customers using RFM analysis and K-Means clustering in Python.
-- Built an interactive **Power BI dashboard** featuring:
-  - Customer segments by behavior and type
-  - Revenue contribution by cluster and state
-  - Dynamic filters and KPI cards for real-time insight
-- Identified a high-value cluster contributing **55%+ revenue** from only 52% of customers.
-
-### 2. **Climate Forecasting Dashboard**
-- Forecasted climate trends using SARIMA modeling in Python.
-- Built a dashboard to aid urban planning and sustainability decisions in Australia.
-
----
-
 ## ⚙️ Upcoming Project
 
 ### 🚦 **MobilitySense: Predictive Transport Intelligence for Melbourne**
