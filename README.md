@@ -31,9 +31,9 @@ Hi, I’m Eashwar — a Master of Data Science candidate at RMIT University with
 - **Visualization**: Power BI, Tableau, Folium  
 - **Databases**: MySQL, SQL Server, DynamoDB  
 - **Cloud Platforms**: AWS (EC2, S3, Lambda)  
-- **Other Tools**: Git, Flask, Jupyter Notebook, RStudio  
-- **Techniques**: RFM Analysis, K-Means Clustering, Time Series Forecasting, ETL, Public Sector Analytics
-
+- **Other Tools**: Flask, Jupyter Notebook, RStudio  
+- **Techniques**: RFM Analysis, K-Means Clustering, Time Series Forecasting, ETL
+  
 ---
 
 ## 📚 Currently Learning
