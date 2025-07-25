@@ -7,7 +7,6 @@ Hi, I’m Eashwar — a Master of Data Science candidate at RMIT University with
 ## ⚙️ Upcoming Project
 
 ### 🚦 **MobilitySense: Predictive Transport Intelligence for Melbourne**
-> *Urban Mobility | Forecasting | Geospatial Intelligence | Cloud-first Pipeline*
 
 - Will extract and process real-time transport and traffic data from PTV and City of Melbourne Open Data.
 - Build delay prediction models using SARIMA/Prophet and K-Means for congestion clustering.
@@ -16,7 +15,6 @@ Hi, I’m Eashwar — a Master of Data Science candidate at RMIT University with
 
 
 ### 📄 **GovReportAI: NLP Intelligence on Australian Public Reports**
-> *Unstructured Data | Topic Modeling | Policy Insight Mining | Language Intelligence*
 
 - Will collect official Australian government reports from domains like climate, health, and education using PDF scraping and data.gov.au sources.
 - Apply Natural Language Processing (NLP) techniques including TF-IDF, Topic Modeling (LDA), and NER (Named Entity Recognition) to extract key themes, risks, and priorities.
