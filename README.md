@@ -1,6 +1,6 @@
 # 👋 About Me: Eashwar Subramanian
 
-Hi, I’m Eashwar — a Master of Data Science candidate at RMIT University with a passion for transforming messy data into meaningful insights that support better decisions for businesses and communities across Australia.
+Hi, I’m Eashwar — a Master of Data Science student at RMIT University with a passion for transforming messy data into meaningful insights that support better decisions for businesses and communities across Australia.
 
 ---
 
