@@ -22,7 +22,7 @@ Hi, I’m Eashwar — a Master of Data Science student at RMIT University with a
 - **Cloud Platforms**: AWS (EC2, S3, Lambda)  
 - **Other Tools**: Flask, Jupyter Notebook, RStudio, Weka
 - **Techniques**: RFM Analysis, K-Means Clustering, Time Series Forecasting, ETL
-  
+- **Project Maanagement**: Slack, jora, trello, confluence
 ---
 
 ## 📚 Currently Learning
