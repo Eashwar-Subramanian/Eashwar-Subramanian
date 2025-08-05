@@ -17,10 +17,10 @@ Hi, I’m Eashwar — a Master of Data Science student at RMIT University with a
 ## 🧠 Tools & Skills
 
 - **Languages & Tools**: Python (Pandas, NumPy, Scikit-learn, Stats models), SQL, Java, R  
-- **Visualization**: Power BI, Tableau 
+- **Visualization**: Power BI, Tableau, Google Sheets
 - **Databases**: MySQL, SQL Server, DynamoDB  
 - **Cloud Platforms**: AWS (EC2, S3, Lambda)  
-- **Other Tools**: Flask, Jupyter Notebook, RStudio, Weka
+- **Other Tools**: Flask, Jupyter Notebook, RStudio, Weka, Git
 - **Techniques**: RFM Analysis, K-Means Clustering, Time Series Forecasting, ETL
 - **Project Maanagement**: Slack, Jira, Trello, Confluence
 ---
