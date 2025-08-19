@@ -1,6 +1,6 @@
-# 👋 About Me: Eashwar Subramanian
+👋 About Me: Eashwar Subramanian
 
-Hi, I’m Eashwar — a Master of Data Science student at RMIT University with a passion for transforming messy data into meaningful insights that support better decisions for businesses and communities across Australia. Currently I'm engaged in doing 2 internships with the main aim of growing and learning more in this domain.
+Hi, I’m Eashwar — a Master of Data Science student at RMIT University with a passion for transforming messy data into meaningful insights that support better decisions for businesses and communities across Australia. Currently, I’m engaged in doing an internship as part of my course, and I will be joining a new internship at Cultural Infusion starting in November, further expanding my hands-on experience in data science.
 
 ---
 
