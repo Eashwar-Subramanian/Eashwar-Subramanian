@@ -42,7 +42,7 @@ Hi, I’m Eashwar — a Master of Data Science student at RMIT University with a
 ## 📫 Let’s Connect
 
 Email: **eashwars2001@gmail.com**  
-LinkedIn: linkedin.com/in/eashwar-s-02461a1b3](https://www.linkedin.com/in/eashwar-s-02461a1b3/)
+LinkedIn: https://www.linkedin.com/in/eashwar-s-02461a1b3/
 
 ---
 
