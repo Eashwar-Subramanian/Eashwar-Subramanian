@@ -1,10 +1,10 @@
-# Eashwar Subramanian | Data Scientist
+# Eashwar Subramanian | Data Scientist 
 **Healthcare AI Specialist | Australian Market Focus | Production RAG Systems**
-
-📧 eashwars2001@gmail.com | 📱 +61 450 332 782 | [LinkedIn](https://linkedin.com/in/eashwar-s-02461a1b3/)
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
 ![AWS](https://img.shields.io/badge/AWS-Experienced-orange)  
 ![Power BI](https://img.shields.io/badge/PowerBI-Advanced-yellow)
+
+📧 eashwars2001@gmail.com | 📱 +61 450 332 782 | [LinkedIn](https://linkedin.com/in/eashwar-s-02461a1b3/)
 
 ## 🎯 **Current Focus**
 Building production-grade AI systems for healthcare compliance at **Solara Health** (July 2025 - Present)
