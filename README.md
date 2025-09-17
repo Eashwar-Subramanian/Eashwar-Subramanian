@@ -1,49 +1,58 @@
-👋 About Me: Eashwar Subramanian
+# Eashwar Subramanian | Data Scientist
+**Healthcare AI Specialist | Australian Market Focus | Production RAG Systems**
 
-Hi, I’m Eashwar — a Master of Data Science student at RMIT University with a passion for transforming messy data into meaningful insights that support better decisions for businesses and communities across Australia. Currently, I’m doing an internship with Solara Health, and I will be joining a new internship in November, further expanding my hands-on experience in data science.
+📧 eashwars2001@gmail.com | 📱 +61 450 332 782 | [LinkedIn](https://linkedin.com/in/eashwar-s-02461a1b3/)
+
+## 🎯 **Current Focus**
+Building production-grade AI systems for healthcare compliance at **Solara Health** (July 2025 - Present)
+- Implementing TGA-compliant RAG pipelines for medical chatbots
+- Automated testing suites covering API routing and disclaimer enforcement
+- Patient query classification with crisis escalation protocols
+
+## 💼 **What I Build**
+**Business Intelligence & Forecasting**
+- Customer segmentation driving 15% revenue identification (Australian retail)
+- Climate forecasting with 1.2°C MAE for government policy support
+- Healthcare AI systems with regulatory compliance safeguards
+
+**Technical Execution**
+- Production Python (Pandas, Scikit-learn, FastAPI, Pytest)
+- Cloud Infrastructure (AWS EC2, S3, Lambda, DynamoDB)
+- Business Dashboards (Power BI, Tableau with automated ETL)
+
+## 🔧 **Core Competencies**
+**Languages:** Python, SQL, R, Java  
+**ML/Analytics:** RFM Analysis, K-Means, Time Series (SARIMA), NLP (RAG)  
+**Cloud & DevOps:** AWS (EC2, S3, Lambda), Docker, Git, CI/CD  
+**Visualization:** Power BI, Tableau, Folium (geospatial)  
+**Databases:** MySQL, DynamoDB, SQL Server
+
+## 📊 **Featured Projects**
+### [Australian Retail Customer Segmentation](./Australian-Retail-Customer-Segmentation)
+**Business Impact:** Identified high-value customer segment representing 15% of revenue  
+**Technical:** K-Means clustering on 5,000 transactions, RFM analysis, Power BI dashboard  
+**Data Quality:** Corrected 72.5% invalid order IDs, implemented outlier treatment
+
+### [Climate Analysis Dashboard](./Climate-Dashboard)  
+**Business Impact:** SARIMA forecasting for government climate policy decisions  
+**Technical:** Flask web app, 1.2°C MAE accuracy, interactive Folium mapping  
+**Deployment:** Python-based dashboard with real-time location search
+
+### [Healthcare RAG Pipeline](.) *(Proprietary - Sanitized Version)*
+**Business Impact:** TGA-compliant medical information system with crisis escalation  
+**Technical:** FastAPI, Pytest testing, automated disclaimer enforcement  
+**Compliance:** Australian healthcare regulation adherence, audit trails
+
+## 🎓 **Credentials**
+**M.S. Data Science** | RMIT University | Dec 2025 | GPA: 3.4/4.0  
+**B.S. Electronics & Communication** | Rajagiri School of Engineering | Aug 2023 | First Class Distinction
+
+**Certifications in Progress:**
+- Microsoft Azure Data Fundamentals (AI-900)
+- Microsoft Azure AI Fundamentals (DP-900)
+
+## 🤝 **Professional Network**
+**Data Science Melbourne Meetup** - Active member engaging with 50+ analytics professionals
 
 ---
-
-## ⚙️ Upcoming Project
-### 📄 **GovReportAI: NLP Intelligence on Australian Public Reports**
-
-- Will collect official Australian government reports from domains like climate, health, and education using PDF scraping and data.gov.au sources.
-- Apply Natural Language Processing (NLP) techniques including TF-IDF, Topic Modeling (LDA), and NER (Named Entity Recognition) to extract key themes, risks, and priorities.
-- Summarize and visualize findings via a Power BI + Streamlit dashboard highlighting topic trends by sector, agency, and state.
-- *Goal:* Enable researchers, policymakers, and analysts to uncover actionable insights buried in long-form policy documents and public reports.
-
----
-
-## 🧠 Tools & Skills
-
-- **Languages & Tools**: Python (Pandas, NumPy, Scikit-learn, Stats models), SQL, Java, R  
-- **Visualization**: Power BI, Tableau, Google Sheets
-- **Databases**: MySQL, SQL Server, DynamoDB  
-- **Cloud Platforms**: AWS (EC2, S3, Lambda)  
-- **Other Tools**: Flask, Jupyter Notebook, RStudio, Weka, Git
-- **Techniques**: RFM Analysis, K-Means Clustering, Time Series Forecasting, ETL
-- **Project Maanagement**: Slack, Jira, Trello, Confluence
----
-
-## 📚 Currently Learning
-
-- Microsoft Certified: Azure Data Fundamentals (DP-900)
-- Microsoft Certified: Microsoft Azure AI Fundamentals (AI-900)
-
----
-
-## 🔍 Looking For
-
-- Part-time data analyst/scientist roles (up to 48 hours/fortnight)
-- Real-world datasets or open-source data analytics collaborations
-
----
-
-## 📫 Let’s Connect
-
-Email: **eashwars2001@gmail.com**  
-LinkedIn: https://www.linkedin.com/in/eashwar-s-02461a1b3/
-
----
-
-> *“Data should not just inform — it should inspire better action.”*
+*"Building data solutions that meet real business needs and regulatory requirements."*
