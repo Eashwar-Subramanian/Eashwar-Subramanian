@@ -42,7 +42,7 @@ Building production-grade AI systems for healthcare compliance at **Solara Healt
 **Technical:** Flask web app, 1.2°C MAE accuracy, interactive Folium mapping  
 **Deployment:** Python-based dashboard with real-time location search
 
-### [Healthcare RAG Pipeline](.) *(Proprietary - Sanitized Version)*
+### [Healthcare RAG Pipeline](.) (Proprietary - Sanitized Version)
 **Business Impact:** TGA-compliant medical information system with crisis escalation  
 **Technical:** FastAPI, Pytest testing, automated disclaimer enforcement  
 **Compliance:** Australian healthcare regulation adherence, audit trails
