@@ -57,6 +57,7 @@ Building production-grade AI systems for healthcare compliance at **Solara Healt
 
 ## 🤝 **Professional Network**
 
-**Data Science Melbourne Meetup** - Active member engaging with 50+ analytics professionals
+- Data Science Melbourne Meetup
+  Active member engaging with 50+ analytics professionals
 ---
 *"Building data solutions that meet real business needs and regulatory requirements."*
