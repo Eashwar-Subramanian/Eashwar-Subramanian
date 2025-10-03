@@ -19,7 +19,7 @@ Building production-grade AI systems for healthcare compliance at **Solara Healt
 - Climate forecasting with 1.2°C MAE for government policy support
 - Healthcare AI systems with regulatory compliance safeguards
 
-**Technical Execution**
+**Technical Execution** 
 - Production Python (Pandas, Scikit-learn, FastAPI, Pytest)
 - Cloud Infrastructure (AWS EC2, S3, Lambda, DynamoDB)
 - Business Dashboards (Power BI, Tableau with automated ETL)
