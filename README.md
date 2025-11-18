@@ -25,11 +25,13 @@ Building production-grade AI systems for healthcare compliance at **Solara Healt
 - Business Dashboards (Power BI, Tableau with automated ETL)
 
 ## 🔧 **Core Competencies**
-**Languages:** Python, SQL, R, Java  
-**ML/Analytics:** RFM Analysis, K-Means, Time Series (SARIMA), NLP (RAG)  
-**Cloud & DevOps:** AWS (EC2, S3, Lambda), Docker, Git, CI/CD  
-**Visualization:** Power BI, Tableau, Folium (geospatial)  
-**Databases:** MySQL, DynamoDB, SQL Server
+Languages: Python, SQL, R 
+Cloud/DevOps: AWS (Bedrock, Aurora, S3, Lambda, EC2), Docker, CI/CD, Git 
+ML / Analytics: RAG , Semantic Chunking (LlamaIndex), Sentence Transformers (MiniLM), RAGAS Evaluation, Scikit-learn, SARIMA, K-Means, Classification Models 
+Databases: PostgreSQL (pgvector, RLS, IVFFlat Indexing), MySQL, DynamoDB, SQL Server 
+Visualization: Power BI, Tableau, Matplotlib 
+Frameworks / Libraries: Fast API, Flask, Pytest, Pedantic, Pandas, NumPy, BeautifulSoup4, pdfplumber 
+Other Specialisations: Multi-Tenant Architecture, Safety Guardrails (AWS Bedrock), PII Redaction, Metadata Tagging
 
 ## 📊 **Featured Projects**
 ### [Australian Retail Customer Segmentation](./Australian-Retail-Customer-Segmentation)
