@@ -7,7 +7,7 @@
 📧 eashwars2001@gmail.com | 📱 +61 450 332 782 | [LinkedIn](https://linkedin.com/in/eashwar-s-02461a1b3/)
  
 ## 🎯 **Current Focus**
-Building production-grade AI systems for healthcare compliance at **Solara Health** (July 2025 - Present)
+Building production-grade AI systems for healthcare compliance at **Solara Health** (July 2025 - Present) 
 - Implementing TGA-compliant RAG pipelines for medical chatbots
 - Automated testing suites covering API routing and disclaimer enforcement
 - Patient query classification with crisis escalation protocols
