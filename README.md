@@ -50,7 +50,7 @@ Building production-grade AI systems for healthcare compliance at **Solara Healt
 **Compliance:** Australian healthcare regulation adherence, audit trails
 
 ## 🎓 **Credentials**
-**M.S. Data Science** | RMIT University | Dec 2025 | GPA: 3.4/4.0  
+**M.S. Data Science** | RMIT University | Dec 2025 | GPA: 3.6/4.0  
 **B.S. Electronics & Communication** | Rajagiri School of Engineering | Aug 2023 | First Class Distinction
 
 **Certifications in Progress:**
