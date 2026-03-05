@@ -3,7 +3,7 @@
 Junior Data Analyst / Analytics (Melbourne) — SQL • Python • Power BI • MySQL • Dashboards • Data QA
 
 Portfolio: https://eashwar-subramanian.github.io/Portfolio/  
-LinkedIn: https://www.linkedin.com/in/eashwar-s-02461a1b3/  
+LinkedIn: https://www.linkedin.com/in/eashwar-s-02461a1b3/
 Email: eashwars2001@gmail.com
 
 ---
