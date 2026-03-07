@@ -1,14 +1,28 @@
 # Eashwar Subramanian
 
-Junior Data Analyst / Analytics (Melbourne) — SQL • Python • Power BI • MySQL • Dashboards • Data QA
+Junior BI / Data Analyst (Melbourne) — Tableau • Power BI • SQL • Python • MySQL • Dashboards • Data QA
 
 Portfolio: https://eashwar-subramanian.github.io/Portfolio/  
-LinkedIn: https://www.linkedin.com/in/eashwar-s-02461a1b3/
+LinkedIn: linkedin.com/in/eashwar-subramanian-02461a1b3  
 Email: eashwars2001@gmail.com
 
 ---
 
 ## Projects
+
+### Sales & Customer Performance Dashboards (Tableau | Superstore)
+End-to-end Tableau BI build focused on executive KPIs, time trends, and interactive drilldowns.
+
+**What I built (Sales Dashboard):**
+- KPI tiles for **Sales, Profit, Quantity** with **monthly sparklines** and **min/max markers**
+- **Bar-in-bar** sub-category comparison (current year vs previous year)
+- **Weekly trends** for Sales & Profit with **average reference lines**
+- Interactivity: **Select Year parameter**, **show/hide filter panel**, and **dashboard navigation**
+
+Repo: https://github.com/Eashwar-Subramanian/sales-customer-performance-bi-tableau  
+Live dashboard: <YOUR_TABLEAU_PUBLIC_LINK>
+
+---
 
 ### Australian Retail Customer Segmentation (Python + Power BI)
 Customer segmentation using RFM-style features and K-Means clustering, packaged with a Power BI dashboard built on the generated customer-level dataset.
@@ -71,6 +85,7 @@ If you’re willing to review, please open an Issue titled: **Review: <repo-name
 ---
 
 ## Tech used in public repos
+Tableau  
 Python (pandas, numpy, scikit-learn, Flask, FastAPI, pytest)  
 SQL (MySQL)  
 Power BI  
