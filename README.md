@@ -4,6 +4,7 @@ Junior BI / Data Analyst (Melbourne) — Tableau • Power BI • SQL • Python
 
 Portfolio: https://eashwar-subramanian.github.io/Portfolio/  
 LinkedIn: https://www.linkedin.com/in/eashwar-subramanian-02461a1b3/
+
 Email: eashwars2001@gmail.com
 
 ---
