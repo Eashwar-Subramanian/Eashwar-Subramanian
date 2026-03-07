@@ -21,7 +21,7 @@ End-to-end Tableau BI build focused on executive KPIs, time trends, and interact
 - Interactivity: **Select Year parameter**, **show/hide filter panel**, and **dashboard navigation**
 
 Repo: https://github.com/Eashwar-Subramanian/sales-customer-performance-bi-tableau  
-Live dashboard: <YOUR_TABLEAU_PUBLIC_LINK>
+Live dashboard: https://public.tableau.com/views/SalesDashboard_17726779946520/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
@@ -69,13 +69,6 @@ Repo: https://github.com/Eashwar-Subramanian/cloud-music-subscription-app
 
 ---
 
-## Healthcare RAG evaluation (sanitized; code not public)
-Sanitized case study with documented design + metrics only (no NDA code).
-
-Repo: https://github.com/Eashwar-Subramanian/healthcare-rag-evaluation-sanitized
-
----
-
 ## Feedback / code review
 If you’re willing to review, please open an Issue titled: **Review: <repo-name>** and comment on:
 - README clarity and reproducibility
@@ -95,11 +88,11 @@ Git
 
 ---
 
-## Learning (not counted as project experience)
-Advanced SQL + Tableau dashboard design best practices
+## Learning
+Advanced SQL + Tableau/Power Bi/Excel dashboard design best practices
 
 ---
 
 ## Education
-Master of Data Science — RMIT University (Dec 2025)  
+Master of Data Science(Distinction) — RMIT University (Dec 2025)  
 Bachelor of Electronics & Communication Engineering — First Class Distinction
