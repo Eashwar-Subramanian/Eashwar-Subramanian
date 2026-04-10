@@ -1,6 +1,6 @@
 # Eashwar Subramanian
 
-Junior BI / Data Analyst (Melbourne) — Tableau • Power BI • SQL • Python • MySQL • Dashboards • Data QA
+Data Analyst (Melbourne) — Tableau • Power BI • SQL • Python • MySQL • Dashboards • Data QA
 
 Portfolio: https://eashwar-subramanian.github.io/Portfolio/  
 LinkedIn: https://www.linkedin.com/in/eashwar-subramanian-02461a1b3/
